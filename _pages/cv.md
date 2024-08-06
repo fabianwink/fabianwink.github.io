@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc in business Informatics, IU International University, Cologne Germany, 2027 (expected)
+* Fachhochschulreife, Berufskolleg Bergisch Gladbach, Bergisch Gladbach Germany, 2020
+* Informations Technischer Assistent (ITA), Berufskolleg Bergisch Gladbach, Bergisch Gladbach Germany, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Spring 2023: Medcon Health Content GmbH (part of Biermann Medizin GmbH)
+  * IU International University
+  * Duties includes: Newsletter and Website configuration and maintanance
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
