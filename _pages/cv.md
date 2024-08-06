@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc in business Informatics, IU International University, Cologne Germany, 2027 (expected)
+* B.Sc in business Informatics, TH Köln, Gummersbach Germany, 2023 (Incomplete)
 * Fachhochschulreife, Berufskolleg Bergisch Gladbach, Bergisch Gladbach Germany, 2020
 * Informations Technischer Assistent (ITA), Berufskolleg Bergisch Gladbach, Bergisch Gladbach Germany, 2020
 
@@ -24,7 +25,7 @@ Work experience
 
 * Spring 2021: abc Finance GmbH (2 Months)
   * Portfoliomanagement (Werkstudent)
-  * Duties included: finance
+  * Duties included: process bills and activity
 
 * Spring 2019: ALFRED TALKE TRANSPORT SERVICES (2 Months)
   * IT-Services (Praktikant)
