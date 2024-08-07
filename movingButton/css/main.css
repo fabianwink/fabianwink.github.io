@@ -12,7 +12,7 @@
   button {
     position: absolute;
     top: 50%;
-    left: 10%;
+    left: 90%;
     transform: translate(-50%, -50%);
     height: 2rem;
     width: 5rem;
