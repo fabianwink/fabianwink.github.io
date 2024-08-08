@@ -19,9 +19,9 @@
     font-size: 0.8rem;
     border-radius: 5px;
     border: none;
-    box-shadow: 1px 1px 5px $gray;
+    box-shadow: 1px 1px 5px DimGray;
     color: #fff;
-    background: $gray;
+    background: DimGray;
     cursor: pointer;
   }
   
