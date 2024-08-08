@@ -21,7 +21,7 @@
     border: none;
     box-shadow: 1px 1px 5px black;
     color: #fff;
-    background: #000;
+    background: mix(#fff, $gray, 25%);
     cursor: pointer;
   }
   
